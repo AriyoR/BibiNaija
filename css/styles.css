@@ -1,0 +1,131 @@
+body{
+  text-align: center;
+}
+.colored-section {
+  background-color: yellow;
+  color:#c0c0c;
+}
+
+.colored-order{
+  background-color:#FFFFE0;
+}
+.container-fluid {
+  padding: 7% 15%;
+}
+h2{
+  font-family: 'Titan One', cursive;
+}
+
+/* Headings  */
+.big-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+/* navbar  */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 'Montserrat', sans-serif;
+  font-weight: lighter;
+}
+
+.title-image {
+  width: 40%;
+  border-radius: 100%;
+  margin: 50px;
+  position: absolut;
+  right: 19px;
+}
+
+.title-image2 {
+  width: 40%;
+  border-radius: 100%;
+  position: relative;
+  left: 25px;
+}
+
+.service-image, .service-text {
+  margin-right: 60px;
+  width: 40%;
+  border-radius: 10%;
+  text-align: center;
+  color:#fff700;
+}
+.
+
+/* food service */
+#service {
+  background-color: #fff;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  height: 50px;
+  width: 50px;
+  outline: yellow;
+  background-color: yellow;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  border: 1px solid yellow;
+}
+
+
+/* menu */
+/* Create two unequal columns that floats next to each other */
+.feature-title{
+font-family: 'Titan One', cursive;
+font-size: 2rem;
+}
+
+p{
+  color:gray;
+}
+.column {
+  float: left;
+  padding: 30px;
+
+
+.left, .middle, .right {
+  width: 25%;
+  text-align: center;
+}
+
+/* feature section */
+#feature{
+  background-color: blue;
+}
+.icon {
+  color: #DDA0DD;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: blue;
+}
+
+/* footer */
+.social-icon {
+  margin: 6% 10%; 
+}
+
+/* ........................................................ */
+/* Order.html */
+
+.contact-me:hover{
+  color:blue;
+}
